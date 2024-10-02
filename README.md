@@ -12,4 +12,4 @@ Wherever possible you are encouraged to move toward the use of open-source softw
 
 The scripts cover basic operations that can be done to either, enable data to be opened and used in legacy/proprietary software (where limitations exist) or transform data to match older less efficient data formats. Each folder contains scripts and example data that show how simply the relevant operations can be added into their own pipelines. 
 
-They are not intended to be run “as-is”. ONS cannot know the full breadth and depth of how and at what point in your pipelines they may be used. They are designed to show, as simply as possible, how to enable a particular operation that allows you to continue to use legacy/proprietary systems and data formats. There are, therefore, a starting point for your own scripts. 
+They are not intended to be run “as-is”. ONS cannot know the full breadth and depth of how and at what point in your pipelines they may be used. They are designed to show, as simply as possible, how to enable a particular operation that allows you to continue to use legacy/proprietary systems and data formats. They are a starting point for your own scripts. 
